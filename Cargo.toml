@@ -1,0 +1,11 @@
+[package]
+name = "reinforcement-grid"
+version = "0.1.0"
+edition = "2021"
+description = "Grid world reinforcement learning environment with Q-learning and SARSA"
+license = "MIT"
+repository = "https://github.com/SuperInstance/reinforcement-grid"
+keywords = ["reinforcement-learning", "q-learning", "sarsa", "grid-world", "rl"]
+categories = ["mathematics", "algorithms", "science"]
+
+[dependencies]
